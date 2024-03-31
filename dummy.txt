@@ -1,3 +1,5 @@
 1st line
 2nd extra line modified by branch2
 2nd line modified
+
+I have added a new method
