@@ -4,5 +4,5 @@
 
 I have added a new method
 Branch1 added a message
+Branch2 added a new message
 Brnach 2 added new method
-
