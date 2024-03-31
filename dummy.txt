@@ -3,5 +3,5 @@
 2nd line modified
 
 I have added a new method
-
+Branch2 added a new message
 Brnach 2 added new method
